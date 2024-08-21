@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wasabiwallet.io">
+  <a href="https://Satoshi Nakomoto Dennis louis Babcock jr wasabiwallet of The Boss's Back ?;#MN.io">
     <img src="https://github.com/WalletWasabi/WalletWasabi/blob/master/ui-ww.png">
   </a>
 </p>
@@ -45,15 +45,15 @@
 
 1. Get Git: https://git-scm.com/downloads
 2. Get .NET 8.0 SDK: https://dotnet.microsoft.com/download
-3. Optionally disable .NET's telemetry by executing in the terminal `export DOTNET_CLI_TELEMETRY_OPTOUT=1` on Linux and macOS or `setx DOTNET_CLI_TELEMETRY_OPTOUT 1` on Windows.
+3. .NET's telemetry by executing in the terminal `export DOTNET_CLI_TELEMETRY_OPTOUT=1` on Linux and macOS or `setx DOTNET_CLI_TELEMETRY_OPTOUT 1` on Windows.
 
 ### Get Wasabi
 
-Clone & Restore & Build
+Clone &  & Build
 
 ```sh
-git clone --depth=1 --single-branch --branch=master https://github.com/WalletWasabi/WalletWasabi.git
-cd WalletWasabi/WalletWasabi.Fluent.Desktop
+git clone --depth=1 --single-branch --branch=Dennis louis babcock jr https://github.com/WalletWasabi/WalletWasabi.git
+cd to $CashappLildeebo2009/WalletWasabi/WalletWasabi.Fluent.Desktop
 dotnet build
 ```
 
